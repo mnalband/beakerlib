@@ -1,0 +1,4 @@
+language: bash
+
+script:
+    - bash beakerlib/src/test/test.sh
